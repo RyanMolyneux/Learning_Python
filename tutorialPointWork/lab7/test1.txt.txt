@@ -1,0 +1,20 @@
+#Python functions
+
+#Variables
+variable_list = [1,2,3];
+
+#Functions
+def myFunc(variable_list):
+	"This is used to demonstrate how python functions work."
+	for variable_int in variable_list :
+		print("\n\nValue : ",variable_int);
+	else:
+		print("\n\nThere are no more values to be displayed.");	
+	return;
+print("\n\n\tTEST-1\n------------------------\n");
+
+print("\n\nNow we will cover functions in python defining them calling them and updating references vs overwriting.\n\n");
+
+
+#calling function
+myFunc(variable_list);
