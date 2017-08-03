@@ -1,0 +1,2 @@
+From when i have started learning python till now i have covered all the basics 
+such as int,float,lists,tuples,dicts,classes,functions etc.
