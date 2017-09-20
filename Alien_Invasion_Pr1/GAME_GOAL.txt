@@ -1,0 +1,7 @@
+DATE : 01/08/17.
+
+The game is going to be a recreation or tribute to space invaders will work
+very much the same play will control his ship using keys but one difference is
+unlike space invaders the user will have 3 lives in this game, This will be
+my first game I am going to create with python & hopefully not my last lets see how
+it goes. 

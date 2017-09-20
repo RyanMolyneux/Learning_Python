@@ -1,0 +1,61 @@
+DATE : 01/08/17.
+
+Chapter 12 - WORK LOG
+---------------------
+
+WORK Achieved
+--------------
+So far started the main pyhton module of the game were the game will start from & from
+there other modules will be executed by choice such as settings, ship actions,
+settings module is finished for now & the players_ship module has been started but
+not tested & still has some way's to go.
+
+DATE : 02/08/17.
+
+WORK ACHIEVED
+--------------
+Today the ship module is finished for now allowing the ship to be dsplayed
+on the screen & objects of its type to be created,next came refactoring
+of the project to make it more modular & simpler to manage so alot of 
+the operations performed in the main module were grouped up & moved into
+the game functions module, lastly done was some revision of the type
+of work over the past two days that I have been performing so as to
+test I know what I have been doing & that I understand it.
+
+DATE : 08/08/17
+
+WORK ACHIEVED
+-------------
+
+Last time working on this project I finished up the movement of the
+space ship, some refractoring of the code that allows the ship to move
+& the constraints that keep the ship from moving of the display, today
+hope to finish up some revision of this work I have done then finish
+up this chapter & start the next
+
+
+DATE: 09/08/17.
+
+WORK ACHIEVED
+--------------
+The last bit of work from yesterday took longer than I had anticipated
+so what happend first was the revision then started the part to allow 
+the players ship to shoot bullets for that new module was need holding
+new class called bullet & we also need groups so it is much easier to 
+keep track & update all the bullets that were fired on screen, now what needs
+to be done is delete bullets which go off screen so old bullets no longer
+needed in game to free up some of the computers resources and make the
+game more efficient.
+
+
+DATE : 10/08/17.
+
+WORK ACHIEVED
+--------------
+As of yesterday I have finished up the end of chapter 12 which consisted of 
+small things like removing bullets that have disappeared of screen to save space
+, settings a bullet cap & some refractoring & to finish it off some revision which
+required me to preaty much recreate the game but from the left side of the screen 
+with you ship movement being along the y-axis, as for today start chapte 13.
+
+
